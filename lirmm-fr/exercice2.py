@@ -1,7 +1,10 @@
 #!/bin/python3
 
-x = 25
-participant = 'Dupont'
-print('En premier la variable x: ', x, ' puis la variable participant: ', participant)
+# Afficher le type des variables de l'exemple
 
-print('x est un', type(x), 'participant est un', type(participant))
+x = 25
+participant = "Dupont"
+
+print("En premier la variable x: ", x, "puis la variable participant:", participant)
+
+print("x est un", type(x), "participant est un", type(participant))
