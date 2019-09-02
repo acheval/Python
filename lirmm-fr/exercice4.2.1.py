@@ -1,4 +1,4 @@
-#!/bin/python
+#!/bin/python3
 
 # Reprenez le script et faites que le seuil et la longueur lg soient
 # saisis (plutôt qu'écrits dans le script)

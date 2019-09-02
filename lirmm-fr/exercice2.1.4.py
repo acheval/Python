@@ -6,9 +6,9 @@ choix. Créez une variable moy et calculez y la moyenne de x et y. Afficher les
 trois variables précédées de leur nom.
 """
 
-x = 300 
+x = 300
 y = 255
 
-moy = (x+y)/2
+moy = (x + y) / 2
 
 print(moy)

@@ -8,7 +8,7 @@ lg = 65
 
 seuil = 75
 
-# Écriver une structure conditionnelle pour vérifier que lg est supérieure au seuil et afficher un message "ORF valide" dans ce cas, et un message "ORF invalide" dans le cas contraire
+# Écrivez une structure conditionnelle pour vérifier que lg est supérieure au seuil et afficher un message "ORF valide" dans ce cas, et un message "ORF invalide" dans le cas contraire
 
 if lg > seuil:
     print("ORF valide")
