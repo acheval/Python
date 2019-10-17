@@ -1,6 +1,5 @@
 #!/bin/python3 
 
 
-# 11.Write a Python program to get a string from a given string where all
-# occurrences of its first char have been changed to '$', except the first char
-# itself.  Sample String : 'restart' Expected Result : 'resta$t'
+# 28. Write a Python program to remove the characters which have odd index
+# values of a given string.

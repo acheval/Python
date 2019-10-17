@@ -1,6 +1,6 @@
 #!/bin/python3 
 
 
-# 6. Write a Python program to count the number of characters in a string.
-# Sample String : 'google.com' Expected Result : {'o': 3, 'g': 2, '.': 1, 'e':
-# 1, 'l': 1, 'm': 1, 'c': 1}
+# 12. Write a Python program to get a single string from two given strings,
+# separated by a space and swap the first two characters of each string.  Sample
+# String : 'abc', 'xyz' Expected Result : 'xyc abz'

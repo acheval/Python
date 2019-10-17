@@ -1,7 +1,5 @@
 #!/bin/python3 
 
 
-# 8. Write a Python program to count the number of strings where the string
-# length is 2 or more and the first and last character are same from a given
-# list of strings.  Sample List : ['abc', 'xyz', 'aba', '1221'] Expected Result
-# : 2
+# 19. Write a Python program to add key to a dictionary.  Sample Dictionary :
+# {0: 10, 1: 20} Expected Result : {0: 10, 1: 20, 2: 30}

@@ -1,6 +1,5 @@
 #!/bin/python3 
 
 
-# 12. Write a Python program to get a single string from two given strings,
-# separated by a space and swap the first two characters of each string.  Sample
-# String : 'abc', 'xyz' Expected Result : 'xyc abz'
+# 31. Write a Python function that takes two lists and returns True if they have
+# at least one common member. Go
