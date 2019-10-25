@@ -6,3 +6,13 @@
 # instead the empty string.  Sample String : 'w3resource' Expected Result :
 # 'w3ce' Sample String : 'w3' Expected Result : 'w3w3' Sample String : ' w'
 # Expected Result : Empty String
+
+string = 'w3resource', 'w3', 'w', 'Hello World'
+
+for i in string:
+    if len(i) < 2:
+        print("Empty String")
+    else:
+        print(i[:2] + i[-2:])
+
+
