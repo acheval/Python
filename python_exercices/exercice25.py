@@ -1,5 +1,4 @@
 #!/bin/python3 
 
 
-# 26. Write a Python program to remove the nth index character from a non empty
-# string.
+# 25. Write a Python program to clone or copy a list.

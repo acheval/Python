@@ -1,5 +1,5 @@
 #!/bin/python3 
 
 
-# 28. Write a Python program to remove the characters which have odd index
-# values of a given string.
+# 27. Write a Python program to change a given string to a new string where the
+# first and last chars have been exchanged.

@@ -1,5 +1,5 @@
 #!/bin/python3 
 
 
-# 31. Write a Python function that takes two lists and returns True if they have
-# at least one common member. Go
+# 30. Write a Python program to count the occurrences of each word in a given
+# sentence.

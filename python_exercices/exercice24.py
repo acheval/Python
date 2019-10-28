@@ -1,4 +1,4 @@
 #!/bin/python3 
 
 
-# 25. Write a Python program to clone or copy a list.
+# 24. Write a Python program to check a list is empty or not.

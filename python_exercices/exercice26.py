@@ -1,5 +1,5 @@
 #!/bin/python3 
 
 
-# 27. Write a Python program to change a given string to a new string where the
-# first and last chars have been exchanged.
+# 26. Write a Python program to remove the nth index character from a non empty
+# string.

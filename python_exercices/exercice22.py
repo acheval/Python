@@ -1,4 +1,4 @@
 #!/bin/python3 
 
 
-# 23. Write a Python program to remove duplicates from a list.
+# 22. Write a Python program to iterate over dictionaries using for loops.

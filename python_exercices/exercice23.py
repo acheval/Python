@@ -1,4 +1,4 @@
 #!/bin/python3 
 
 
-# 24. Write a Python program to check a list is empty or not.
+# 23. Write a Python program to remove duplicates from a list.
