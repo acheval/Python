@@ -1,3 +1,5 @@
+#!/bin/python3 
+
 my_pets = ['Zophie', 'Pooka', 'Fat-tail']
 
 print('Enter a pet name: ')

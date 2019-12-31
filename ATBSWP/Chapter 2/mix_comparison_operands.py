@@ -1,3 +1,5 @@
+#!/bin/python3 
+
 print((4 < 5) and (5 < 6))
 print((4 < 5) and (9 < 6))
 print((1 == 2) or (2 == 2))

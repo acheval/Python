@@ -1,3 +1,5 @@
+#!/bin/python3 
+
 #And
 print(True and True)
 print(True and False)

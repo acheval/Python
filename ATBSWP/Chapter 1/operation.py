@@ -1,3 +1,5 @@
+#!/bin/python3 
+
 print("Operation order")
 print("2 + 3 * 6")
 print(2 + 3 * 6)

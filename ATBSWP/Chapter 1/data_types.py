@@ -1,3 +1,5 @@
+#!/bin/python3 
+
 print("Mutable types: ")
 
 print("[\"test list\"]")

@@ -1,3 +1,5 @@
+#!/bin/python3 
+
 def eggs(some_parameter):
     some_parameter.append('Hello')
 

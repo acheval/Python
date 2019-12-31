@@ -1,3 +1,5 @@
+#!/bin/python3 
+
 #Equal
 print(42 == 42)
 print(42 == 99)

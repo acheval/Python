@@ -1,3 +1,5 @@
+#!/bin/python3 
+
 
 def read_list(list):
     print(', '.join(list[:-1]) + ' and ' + list[-1])

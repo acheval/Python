@@ -1,3 +1,5 @@
+#!/bin/python3 
+
 # http://nostarch.com/automatestuff
 
 the_board = {

@@ -1,3 +1,5 @@
+#!/bin/python3 
+
 #/bin/python3
 
 cat_names=[]

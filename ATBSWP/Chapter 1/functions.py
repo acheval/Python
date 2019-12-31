@@ -1,3 +1,5 @@
+#!/bin/python3 
+
 #Strings
 print(str(0))
 print(str(-3.14))
