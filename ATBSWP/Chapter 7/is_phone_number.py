@@ -1,3 +1,5 @@
+#!/bin/python3 
+
 def is_phone_number(text):
     if len(text) != 12:  # check length of string
         return False

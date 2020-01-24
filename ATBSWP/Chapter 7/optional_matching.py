@@ -1,3 +1,5 @@
+#!/bin/python3 
+
 import re
 
 # Matches 0 or 1 occurence

@@ -1,3 +1,5 @@
+#!/bin/python3 
+
 import re
 
 bat_regex = re.compile(r'Bat(wo)+man')

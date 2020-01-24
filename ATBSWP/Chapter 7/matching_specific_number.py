@@ -1,3 +1,5 @@
+#!/bin/python3 
+
 import re
 
 ha_regex = re.compile(r'(Ha){3}')
